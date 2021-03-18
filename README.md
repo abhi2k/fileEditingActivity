@@ -1,3 +1,2 @@
 # wcat
-fileediting
-program for some editing operation in file.
+ program for some editing operation in file.
